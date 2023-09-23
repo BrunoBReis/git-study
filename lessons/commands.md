@@ -20,6 +20,10 @@
 
     + Show branch version; show untracked files.
 
++ `git add name_file`
+
+    + Add file but must be commited
+
 + `git commit file_name -m "Commit message"`
 
     + Commit all changes to a file with a brief summary
@@ -28,6 +32,7 @@
 
     + Push all commits to github.
 
++ `git restore --source=hexadecimal_code file_name`
 
-
+    + Restore the version hexadecimal commit version in the file_name (you can use . for all files commited in this commit)
 
