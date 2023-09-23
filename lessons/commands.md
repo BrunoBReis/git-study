@@ -50,3 +50,11 @@
 + `git branch branch_name`
 
     + Creates a branch but don't switch.
+
++ `git branch`
+
+    + Show all branches
+
++ `git merge mergining_branch`
+
+    + Merge branches.
