@@ -1,5 +1,8 @@
 # Important commands 
 
+>In most of this examples it can be used a dot
+> "." meaning incuding all files
+
 + `git clone HTTPS_name`
 
     + Create a folder in your local machine
@@ -36,3 +39,10 @@
 
     + Restore the version hexadecimal commit version in the file_name (you can use . for all files commited in this commit)
 
++ `git checkout -b branch_name`
+
+    + Creates a new branch
+
++ `git switch branch_name`
+
+    + Switch between branches 
