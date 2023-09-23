@@ -37,12 +37,16 @@
 
 + `git restore --source=hexadecimal_code file_name`
 
-    + Restore the version hexadecimal commit version in the file_name (you can use . for all files commited in this commit)
+    + Restore the version hexadecimal commit version in the file_name (you can use . for all files commited in this commit).
 
 + `git checkout -b branch_name`
 
-    + Creates a new branch
+    + Creates a new branch and switch it.
 
 + `git switch branch_name`
 
-    + Switch between branches 
+    + Switch between branches. 
+
++ `git branch branch_name`
+
+    + Creates a branch but don't switch.
