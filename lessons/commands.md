@@ -58,3 +58,12 @@
 + `git merge mergining_branch`
 
     + Merge branches.
+
++ `git config --global user.email "git_email"`
+
+    + Prepare your machine with your git account
+
++ `git config --global user.name "git_name"`
+
+    + Prepare your machine with your git account
+    
