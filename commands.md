@@ -7,6 +7,18 @@
 
     + Create a folder in your local machine
 
++ `git init`
+    
+    + Transform a folder in git folder
+
++ `git diff`
+
+    + Show all changes
+
++ `git diff --staged`
+
+    + Changes in staged files
+
 + `git log`
 
     + Show all last versions and updates on repo.
