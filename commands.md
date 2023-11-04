@@ -19,13 +19,21 @@
 
     + Changes in staged files
 
++ `git diff origin/main`
+
+    + Show all changes that git pull has.
+
 + `git log`
 
     + Show all last versions and updates on repo.
 
 + `git log --oneline`
 
-    + Show all last versions in one line.    
+    + Show all last versions in one line.
+
++ `git fetch`
+
+    + Show all changes that git pull has. (but must use git diff to see it).    
 
 + `git pull HTTPS_name`
 
