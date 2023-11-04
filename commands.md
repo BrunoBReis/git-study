@@ -51,6 +51,10 @@
 
     + Restore the version hexadecimal commit version in the file_name (you can use . for all files commited in this commit).
 
++ `git restore --staged files_name`
+
+    + Move file to staged changes for changes.
+
 + `git checkout -b branch_name`
 
     + Creates a new branch and switch it.
