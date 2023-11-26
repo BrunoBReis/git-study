@@ -79,6 +79,10 @@
 
     + Show all branches
 
++ `git branch -r`
+
+    + Show all branches online     
+
 + `git merge mergining_branch`
 
     + Merge branches.
