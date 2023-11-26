@@ -81,7 +81,11 @@
 
 + `git branch -r`
 
-    + Show all branches online     
+    + Show all branches online
+
++ `git branch -D branch_name`
+
+    + Removes branches locally
 
 + `git merge mergining_branch`
 
